@@ -1,10 +1,4 @@
 import 'package:flutter/material.dart';
-
-/*
-3.flutter build apk
-1.set environment variable - ANDRIOD_HOME
-2.cmd adb
-*/
 void main() {
  runApp(MyApp());
 }
