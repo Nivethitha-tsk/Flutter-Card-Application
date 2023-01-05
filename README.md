@@ -1,4 +1,4 @@
-# card_app_new
+# Flutter Card Application
 
 A new Flutter project.
 
